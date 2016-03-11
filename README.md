@@ -16,10 +16,10 @@ Github allows us to use a limited subset of HTML in our Markdown files – lets 
 
 ## Columns
 
-<table>
-  <tr>
-    <td>Left Column</td>
-    <td>Right Column</td>
+<table width="100%">
+  <tr width="100%">
+    <td width="50%">Left Column</td>
+    <td width="50%">Right Column</td>
   </tr>
 </table>
 
