@@ -19,8 +19,6 @@ Github allows us to use a limited subset of HTML in our Markdown files – lets 
 <table>
   <tr>
     <td>Left Column</td>
-  </tr>
-  <tr>
     <td>Right Column</td>
   </tr>
 </table>
