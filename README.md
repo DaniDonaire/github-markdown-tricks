@@ -1,2 +1,9 @@
 # github-markdown-tricks
-A collection of tricks one can use in Github Markdown
+
+## Center align
+
+<div align="center">This is center aligned!</div>
+
+```HTML
+<div align="center">This is center aligned!</div>
+```
