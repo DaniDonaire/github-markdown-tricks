@@ -16,8 +16,8 @@ Github allows us to use a limited subset of HTML in our Markdown files – lets 
 
 ## Columns
 
-<span align="left">Left column</span><span align="right">Right column</span>
+<div align="left" width="100">Left column</div><div align="right" width="100">Right column</div>
 
 ```HTML
-<span align="left">Left column</span><span align="right">Right column</span>
+<div align="left" width="100">Left column</div><div align="right" width="100">Right column</div>
 ```
