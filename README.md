@@ -1,6 +1,8 @@
 # github-markdown-tricks
 
-Github allows us to use a limited subset of HTML in our Markdown files – lets see what mischief we can do with that!
+GitHub allows us to use a limited subset of HTML in our Markdown files – lets see what mischief we can do with that!
+
+> **Note:** These tricks don't show up when you "Preview changes", you have to actually commit and view in the GitHub webinterface to see it.
 
 ## Alignment
 
