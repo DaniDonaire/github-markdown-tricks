@@ -32,3 +32,11 @@ GitHub allows us to use a limited subset of HTML in our Markdown files – lets 
   <dd>With hanging indentation</dd>
 </dl>
 ```
+
+## Meta tags
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@mxstbr">
+<meta name="twitter:title" content="GitHub Markdown Tricks">
+<meta name="twitter:description" content="A repo full of tricks you can use in your projects README on GitHub.">
+<meta name="twitter:image" content="http://graphics8.nytimes.com/images/2012/02/19/us/19whitney-span/19whitney-span-articleLarge.jpg">
